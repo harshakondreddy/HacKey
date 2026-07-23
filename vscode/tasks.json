@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Hackey",
+			"type": "shell",
+			"command": "swift",
+			"args": [
+				"run"
+			],
+			"isBackground": true,
+			"group": "build"
+		}
+	]
+}
