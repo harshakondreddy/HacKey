@@ -1,3 +1,5 @@
+> **Status: In development.** Features and setup instructions may change.
+
 # Hackey
 
 Hackey is a local-first macOS keyboard navigation tool, inspired by keyboard-driven
